@@ -1,5 +1,7 @@
 # CalliopeGamePad
 
+![CalliopeGamePad](CalliopeGamePad.png)
+
 The CalliopeGamePad adds a gamepad to the Calliope Mini (https://calliope.cc/).
 This project is a open source hardware project made with KiCAD 9 (https://www.kicad.org/).
 It is intended to be 100% compatible with the CallioGamer of M. Klein @ https://www.hackster.io/MKlein/calliogamer-f57906 . Thanks goes to M. Klein for his wonderful project and his software @ https://github.com/MKleinSB/pxt-calliogamer.
