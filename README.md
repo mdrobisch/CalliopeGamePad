@@ -13,6 +13,10 @@ Here are some differeneces compared to the CallioGamer:
 
 You can remix the project and adjust as you like. Please visit the projects of M.Klein and have fun.
 
+## Build your own
+
+Almost all of the big PCB Fabs are able to handle .kicad_pcb files directly. Just upload and let them produce your Calliope Game Pad. In addition you find the gerber fabrication files in the `gerber` directory.
+
 ## Software
 
 Please follow the instruction at https://www.hackster.io/MKlein/calliogamer-f57906 . 
