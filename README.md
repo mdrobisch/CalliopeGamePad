@@ -10,7 +10,7 @@ ATTENTION: Due to the connector the Calliope Game Pad Works **only** with Callio
 
 Here are some differeneces compared to the CallioGamer:
 
-* The CallioGamer production files seems to be broken at least for my PCB fab of choice. Now you have the freedom to adjust for yours as well.
+* The CallioGamer production files seems to be broken somehow (at least for my PCB fab of choice). Now you have the freedom to adjust for yours as well.
 * Added some additional mounting holes. So you can add a solid body to the board (e.g., cardboard or 3d-print)
 * Optional Pull-Up resistors are available. This can also be used for filtering of the buttons with additional capacitors. There is **no need** to solder this for a working gamepad.
 * CalliopeGamePad is made in KiCAD 9 (instead of EasyEDA)
