@@ -15,7 +15,7 @@ Here are some differeneces compared to the CallioGamer:
 * Optional Pull-Up resistors are available. This can also be used for filtering of the buttons with additional capacitors. There is **no need** to solder this for a working gamepad.
 * CalliopeGamePad is made in KiCAD 9 (instead of EasyEDA)
 
-You can remix the project and adjust as you like. Please visit the projects of M.Klein and have fun.
+You can remix the project and adjust as you like. The hardware is licensed under Creative Commons (CC BY-SA). Please visit the projects of M.Klein and have fun.
 
 ## Build your own
 
